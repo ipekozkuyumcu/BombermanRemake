@@ -30,7 +30,6 @@ public class PlayerMovement : MonoBehaviour
             left = KeyCode.A;
             right = KeyCode.D;
             bomb = KeyCode.Space;
-            Debug.Log(bomb);
         }
         else if(this.gameObject.tag == "Player2") //arrows + tab
         {

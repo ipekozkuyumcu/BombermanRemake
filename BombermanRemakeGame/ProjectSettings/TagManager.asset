@@ -7,6 +7,10 @@ TagManager:
   - Player1
   - Player2
   - Breakable
+  - Bomb_P1
+  - GameManage
+  - ScoreBoardTag
+  - Bomb_P2
   layers:
   - Default
   - TransparentFX
