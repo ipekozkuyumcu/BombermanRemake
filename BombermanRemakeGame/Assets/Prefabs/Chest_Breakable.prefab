@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 9069610369117767048}
   - component: {fileID: 5400743869331311176}
   - component: {fileID: -2905755552080729476}
+  - component: {fileID: 6650824225453253723}
   m_Layer: 0
   m_Name: Chest_Breakable
   m_TagString: Breakable
@@ -73,7 +74,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 007837d1cfe39dd409eac2bba24aca4a, type: 3}
+  m_Sprite: {fileID: -7590316191271805061, guid: 0e4140d527527144b9b66ba32a6ecfe7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -131,3 +132,22 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.14, y: 0.14}
   m_EdgeRadius: 0
+--- !u!95 &6650824225453253723
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9203960534532032744}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2a953c4944cd0b44d831883bc173c183, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

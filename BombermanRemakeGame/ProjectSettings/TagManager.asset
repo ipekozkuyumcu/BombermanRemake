@@ -11,6 +11,22 @@ TagManager:
   - GameManage
   - ScoreBoardTag
   - Bomb_P2
+  - P1_Health_Counter
+  - P2_Health_Counter
+  - explosionSoundManagerTag
+  - MusicsPlayerTag
+  - Button0
+  - Button1
+  - Button2
+  - Button3
+  - Level1SelectionTag
+  - Level2SelectionTag
+  - Level3SelectionTag
+  - LevelSelectionTag
+  - P1Mark
+  - P2Mark
+  - P1Score
+  - P2Score
   layers:
   - Default
   - TransparentFX
