@@ -4,7 +4,7 @@ This game is made for a school project using Unity Game Engine. It is a remake o
 Project members:
 Alina Kılınçarslan,
 İpek Özkuyumcu,
-Ahmet Behram,
+Ahmet Behram (https://github.com/AhmetBehram),
 Baran Aslankan
 
 Two-player game (PvP). /
@@ -14,4 +14,4 @@ Aim is to be the last player standing. /
 Players should blast chests on their way to gain buffs. /
 Both players have 3 lives. /
 If a bomb hits a player for the third time, they will die. /
-Both players can die, it is a tie. /
+Both players can die, it is a tie. 
