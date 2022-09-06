@@ -3,7 +3,7 @@ This game is made for a school project using Unity Game Engine. It is a remake o
 
 Project members:
 Alina Kılınçarslan,
-İpek Özkuyumcu,
+İpek Özkuyumcu (Me),
 Ahmet Behram (https://github.com/AhmetBehram),
 Baran Aslankan
 
